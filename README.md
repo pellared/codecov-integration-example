@@ -5,6 +5,7 @@
 [![go.mod](https://img.shields.io/github/go-mod/go-version/golang-templates/seed)](go.mod)
 [![Build Status](https://img.shields.io/github/workflow/status/golang-templates/seed/build)](https://github.com/golang-templates/seed/actions?query=workflow%3Abuild+branch%3Amaster)
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang-templates/seed)](https://goreportcard.com/report/github.com/golang-templates/seed)
+[![codecov](https://codecov.io/gh/pellared/codecov-integration-example/branch/master/graph/badge.svg)](https://codecov.io/gh/pellared/codecov-integration-example)
 
 This is a GitHub repository template for Go. It has been created for ease-of-use for anyone who wants to:
 
